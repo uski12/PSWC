@@ -7,5 +7,4 @@ Run the makefile
 
 # Screenshots
 
-![Screenshot_20240331_004323](https://github.com/uski12/PSWC/assets/67533410/9544af68-7687-412f-b16f-12679f9de1d7)
-
+![Screenshot_20240331_005747](https://github.com/uski12/PSWC/assets/67533410/c2c39e6f-8f38-4989-9e35-6a6a5d39caef)
