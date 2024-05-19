@@ -11,4 +11,9 @@ struct item {
     struct item* next;
 };
 
+struct details {
+    char name[20];
+    float price;
+};
+
 
