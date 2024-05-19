@@ -21,6 +21,7 @@ void itemEntry(struct item *ptr) {
     while (++i) {
         printf("\nItem %d ID: ", i);
         scanf("%hd", &ptr->ID);
+        ptr->qty = 0;
 
         if(ptr->ID == -1) //exit condition
             break;
